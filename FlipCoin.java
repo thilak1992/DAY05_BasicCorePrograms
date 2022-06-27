@@ -1,4 +1,5 @@
-package com.bridgelabz.basiccoreprograms;
+package com.bridgelabz;
+import java.util.Scanner;
 
 public class FlipCoin
 {
