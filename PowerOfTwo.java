@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.basiccoreprograms;
 import java.util.Scanner;
 
 public class PowerOfTwo {
